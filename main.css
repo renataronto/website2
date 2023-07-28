@@ -1,0 +1,53 @@
+body {
+    background-color: #d1b3c4;
+}
+
+#greetings {
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px; 
+    border: 5px solid #b392ac;
+  
+
+    display: flex;
+    justify-content: center;
+    position:static;
+    text-align: center;
+}
+#image {
+    width: 150px;
+    border: 15px solid #b392ac;
+    border-radius: 5px;
+   
+    position:fixed;
+    top: 150px;
+   
+}
+
+#name{
+    position:fixed;
+    top: 200px;
+    right: 680px;
+    font-size: x-large;
+}
+
+
+.main {
+   position:fixed;
+   top:300px;
+   right:160px;
+}
+ .heading {
+    position: fixed;
+    right: 1095px;
+    top:350px;
+ }
+ nav {
+    position:fixed;
+    bottom: 50px ;
+    left: 50px;
+    font-size: large;
+ }
+ a:hover {
+    color: blue;
+ }
+
